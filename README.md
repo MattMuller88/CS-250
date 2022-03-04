@@ -1,6 +1,7 @@
 # CS-250
 Work from the SNHU course CS-250: Software Development Life Cycle
 
+
 **How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
 It is very important when interpreting user needs to try to gain a deep undertanding of what they are looking to get out of the product. User stories can help with this by documenting the details of a specific need so that when we look to implement this need into the program, we do so in exactlty the way the user desires. User stories are particularly important for the tester who, after identifying and filling in any ambiguities, uses them to develop their test cases which will show whether or not the program meets all of its requirements.
